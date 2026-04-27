@@ -156,8 +156,8 @@ boat2 = Boat("Boat B", 0, 0)
 
 boat1.accelerate(5)
 boat1.add_fuel(5)
-boat1.sail
+boat1.sail()
 
 boat2.accelerate(5)
 boat2.add_fuel(5)
-boat2.sail
+boat2.sail()
